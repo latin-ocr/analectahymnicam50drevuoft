@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./analectahymnicam50drevuoft/analectahymnicam50drevuoft_0693.png"; bbox 0 0 1785 3111; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 323 2000 1639 2114">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 323 2000 1639 2114">
+     <span class='ocr_line' id='line_1_1' title="bbox 323 2000 1561 2056; baseline 0.001 -13"><span class='ocrx_word' id='word_1_1' title='bbox 323 2002 637 2044; x_wconf 70' lang='lat' dir='ltr'>Analecta</span> <span class='ocrx_word' id='word_1_2' title='bbox 686 2000 958 2056; x_wconf 68' lang='lat' dir='ltr'>hymnica</span> <span class='ocrx_word' id='word_1_3' title='bbox 1006 2000 1195 2044; x_wconf 70' lang='lat' dir='ltr'>medii</span> <span class='ocrx_word' id='word_1_4' title='bbox 1248 2001 1431 2044; x_wconf 68' lang='lat' dir='ltr'>aevi.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1489 2006 1561 2052; x_wconf 82' lang='lat' dir='ltr'>BQ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1491 2070 1639 2114; baseline 0.014 -2"><span class='ocrx_word' id='word_1_6' title='bbox 1491 2070 1639 2114; x_wconf 83' lang='lat'>5253</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1488 2203 1650 2322">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1488 2203 1650 2322">
+     <span class='ocr_line' id='line_1_3' title="bbox 1488 2203 1650 2254; baseline 0.012 -2"><span class='ocrx_word' id='word_1_7' title='bbox 1488 2203 1650 2254; x_wconf 79' lang='lat' dir='ltr'><strong>v.5D</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1491 2282 1599 2322; baseline 0.019 -2"><span class='ocrx_word' id='word_1_8' title='bbox 1491 2282 1599 2322; x_wconf 82' lang='lat' dir='ltr'>IMS</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
